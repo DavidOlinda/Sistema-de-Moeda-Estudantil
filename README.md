@@ -76,7 +76,12 @@ ecossistema de reconhecimento e benefícios.
 | HU-07 | Professor | Como professor, quero receber 1.000 moedas automaticamente a cada semestre 
 | HU-08 | Empresa | Como empresa, quero me cadastrar e adicionar vantagens para os alunos resgatarem
 | HU-09 | Empresa | Como empresa, quero ser notificada quando um aluno resgatar minha vantagem 
-| HU-10 | Todos | Como usuário, quero fazer login com segurança para acessar minhas informações 
+| HU-10 | Aluno | Como aluno, quero visualizar o catálogo completo de vantagens disponíveis no sistema, para que eu possa planejar como gastar minhas moedas e me motivar a conquistar mais.
+| HU-11 | Aluno | Como aluno, quero consultar o histórico das minhas vantagens resgatadas, incluindo cupons e datas de resgate, para que eu possa acompanhar e gerenciar os benefícios já utilizados.
+| HU-12 | Empresa | Como empresa parceira, quero editar ou desativar as vantagens que cadastrei no sistema, para que eu possa manter as ofertas atualizadas conforme a disponibilidade dos meus produtos ou serviços.
+
+
+
 
 
 
