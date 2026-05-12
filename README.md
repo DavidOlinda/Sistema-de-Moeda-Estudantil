@@ -114,9 +114,9 @@ ecossistema de reconhecimento e benefícios.
 
 | Camada | Tecnologia  |
 |--------|-------------------|
-| Back-end |    |
-| Front-end |  |
-| Banco de Dados |  |
+| Back-end |SpringBoot    |
+| Front-end |React |
+| Banco de Dados |MySQL  |
 
 
 ---
