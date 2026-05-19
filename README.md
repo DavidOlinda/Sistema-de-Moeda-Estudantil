@@ -116,7 +116,7 @@ ecossistema de reconhecimento e benefícios.
 |--------|-------------------|
 | Back-end |SpringBoot    |
 | Front-end |React |
-| Banco de Dados |MySQL  |
+| Banco de Dados |SQlite  |
 
 
 ---
